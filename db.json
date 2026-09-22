@@ -1,0 +1,39 @@
+{
+  "pytania":[
+    {
+      "tresc":"Biblioteka do baz danych w Androidzie to",
+      "odp_a":"Retrofit",
+      "odp_b":"Room",
+      "odp_c":"MAUI",
+      "poprawna":1
+    },
+    {
+      "tresc":"Biblioteka do baz danych odczytu danych z internetu w Androidzie",
+      "odp_a":"Retrofit",
+      "odp_b":"Room",
+      "odp_c":"MAUI",
+      "poprawna":0
+    },
+    {
+      "tresc":"Plik w którym zapisujemy uprawnienia aplikacji",
+      "odp_a":"main_activity.xml",
+      "odp_b":"ActivityMain.java",
+      "odp_c":"AndroidManifest.xml",
+      "poprawna":1
+    },
+    {
+      "tresc":"Oficjalny i rekomendowany przez Google język do pisania aplikacji na Androida to",
+      "odp_a":"Kotlin",
+      "odp_b":"Swift",
+      "odp_c":"C#",
+      "poprawna":0
+    },
+    {
+      "tresc":"Komponent odpowiedzialny za interfejs użytkownika i reprezentujący pojedynczy ekran to",
+      "odp_a":"Service",
+      "odp_b":"Activity",
+      "odp_c":"Broadcast Receiver",
+      "poprawna":1
+    }
+  ]
+}
