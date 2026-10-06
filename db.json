@@ -1,5 +1,4 @@
 {
-  "pytania":[
     {
       "tresc":"Biblioteka do baz danych w Androidzie to",
       "odp_a":"Retrofit",
@@ -35,5 +34,4 @@
       "odp_c":"Broadcast Receiver",
       "poprawna":1
     }
-  ]
 }
